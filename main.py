@@ -8,6 +8,5 @@ def nova_funkcija():
 return "Ovo je nova funkcija."
 
 #Letimo za Rim
-
-def nova_metoda(self):
-    return "Ovo je nova metoda"
+def nova_metoda():
+    return "Ovo je nova metoda 2."
